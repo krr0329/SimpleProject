@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="innovate">74f28bf4db3033002e749b81ca96198f</application>
+        <filter/>
+        <name>innovates</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58126_abc.innovate_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-11 19:41:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78f28bf4db3033002e749b81ca961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>innovates</sys_name>
+        <sys_package display_value="abc" source="x_58126_abc">b70d32b0db3033002e749b81ca9619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">b70d32b0db3033002e749b81ca9619ce</sys_scope>
+        <sys_update_name>sys_ui_module_78f28bf4db3033002e749b81ca961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-11 19:41:34</sys_updated_on>
+        <table>x_58126_abc_innovate</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

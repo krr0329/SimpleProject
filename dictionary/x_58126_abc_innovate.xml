@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="innovate" max_length="40" name="x_58126_abc_innovate" type="collection">
+        <element label="Test 1" max_length="40" name="test_1" type="string"/>
+    </element>
+</database>
